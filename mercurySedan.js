@@ -45,7 +45,7 @@ class Car extends VehicleModule {
 
 
 //this shows how to call from this module...
-let v = new VehicleModule.Vehicle("Mecury", "Sedan", "1965", "color", "mileage");
+let v = new VehicleModule.Vehicle("Mercury", "Sedan", "1965", "color", "mileage");
 
 myCar.start()
 myCar.loadPassanger()
